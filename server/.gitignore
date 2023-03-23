@@ -46,3 +46,4 @@ db/*.db
 db/*.prisma
 db/*.sqlite
 
+/mysql/
